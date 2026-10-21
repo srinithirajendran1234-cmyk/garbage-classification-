@@ -1,0 +1,6 @@
+{
+  "name": "EcoVision - Garbage Classification & Detection using OpenCV and AI",
+  "description": "Academic mini-project system for automated garbage classification and detection using OpenCV computer vision, deep learning CNN/MobileNetV2, live webcam inference, and recycling guidance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
